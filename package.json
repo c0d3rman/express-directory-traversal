@@ -1,0 +1,9 @@
+{
+  "name": "express-directory-traversal",
+  "description": "A middleware for Express to prevent directory traversal attacks.",
+  "version": "0.0.1",
+  "main": "index.js",
+  "dependencies": {
+    "path": "^0.4.9"
+  }
+}
