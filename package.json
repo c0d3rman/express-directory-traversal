@@ -1,6 +1,6 @@
 {
   "name": "express-directory-traversal",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A middleware for Express to prevent directory traversal attacks.",
   "keywords": [
     "express",
