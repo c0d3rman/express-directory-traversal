@@ -1,5 +1,6 @@
 {
   "name": "express-directory-traversal",
+  "version": "1.0.1",
   "description": "A middleware for Express to prevent directory traversal attacks.",
   "keywords": [
     "express",
@@ -7,8 +8,21 @@
     "express directory traversal",
     "express security"
   ],
-  "version": "1.0.1",
+  "homepage": "https://www.npmjs.org/package/express-directory-traversal",
+  "bugs": {
+    "url": "https://github.com/c0d3rman/express-directory-traversal/issues",
+    "email": "yonilern@gmail.com"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Yoni Lerner",
+    "email": "yonilern@gmail.com" 
+  },
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c0d3rman/express-directory-traversal.git"
+  },
   "dependencies": {
     "path": "^0.4.9"
   }
