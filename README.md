@@ -1,3 +1,5 @@
+[![express-directory-traversal API Documentation](https://www.omniref.com/js/npm/express-directory-traversal.png)](https://www.omniref.com/js/npm/express-directory-traversal)
+
 This is a simple module to prevent directory traversal in Express.
 
 It should work with Connect in general (untested).
